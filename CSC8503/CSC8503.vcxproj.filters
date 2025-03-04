@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\CMakeFiles\CSC8503.dir\cmake_pch.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\AIEnemy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\AIRoom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\BaseRoom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\BridgeRoom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\CollisionRoom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\GameTechRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\MenuSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\PendulumRoom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\PlayerCamera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\PlayerController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\TutorialGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\AIEnemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\AIRoom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\BaseRoom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\BridgeRoom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\CollisionRoom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\GameTechRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\MenuSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\PendulumRoom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\PlayerCamera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\PlayerController.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\TutorialGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\CMakeFiles\CSC8503.dir\Debug\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\CMakeFiles\CSC8503.dir\Release\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\brode\Documents\Programming\C++\Uni\CSC8503 2024\CSC8503\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D30E9874-678D-34C7-9D1B-FEF152DB26A7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompile Header File">
+      <UniqueIdentifier>{E5AA113B-593B-3D2D-B144-56DDF59BCC79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{712208F2-CD9D-3646-A1C1-AAF18FD14C28}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
